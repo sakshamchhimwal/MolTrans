@@ -3,6 +3,4 @@
 **/.venv
 **/1_output
 **/1_report
-**/dataset
-**/ESPF
 **/*.zip
